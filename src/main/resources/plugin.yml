@@ -1,0 +1,4 @@
+name: NoCrashORE
+version: "1.0"
+main: NoCrashORE
+api-version: "1.18"
